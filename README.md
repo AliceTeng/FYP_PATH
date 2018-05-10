@@ -1,1 +1,1 @@
-# FYP_PATH
+# FYP_PATHS
